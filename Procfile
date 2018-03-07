@@ -1,1 +1,1 @@
-web: python git initbot.py
+web: python bot.py
